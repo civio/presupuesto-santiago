@@ -49,9 +49,10 @@ class SantiagoBudgetLoader(SimpleBudgetLoader):
             # We got 5-digit functional codes as input, but leading zero may be lost
             fc_code = line[1].rjust(5, '0')
 
-            # Institutional codes are 2-digits, we expect them to be 3-digits.
-            # We add a leading zero, this will make code '0' the root, the city hall.
-            # ic_code = line[0].rjust(3, '0')
+            # Institutional codes are 3-digits (although leading zeros tend to disappear).
+            # But in order to fit with our data model we need to treat them as department codes,
+            # adding two leading zeros for institution and section.
+            ic_code = line[0].rjust(5, '0')
 
             # For years before 2015 we check whether we need to amend the programme code
             # year = re.search('municipio/(\d+)/', filename).group(1)
@@ -65,7 +66,7 @@ class SantiagoBudgetLoader(SimpleBudgetLoader):
                 'is_actual': is_actual,
                 'fc_code': fc_code,
                 'ec_code': line[2][:-2],        # First three digits (everything but last two)
-                'ic_code': '000',               # FIXME
+                'ic_code': ic_code,
                 'item_number': line[2][-2:],    # Last two digits
                 'description': line[3],
                 'amount': self._parse_amount(line[10 if is_actual else 7])
@@ -76,7 +77,7 @@ class SantiagoBudgetLoader(SimpleBudgetLoader):
                 'is_expense': False,
                 'is_actual': is_actual,
                 'ec_code': line[0][:-2],        # First three digits (everything but last two)
-                'ic_code': '000',               # All income goes to the root node
+                'ic_code': '00000',             # All income goes to the root node
                 'item_number': line[0][-2:],    # Last two digits
                 'description': line[1],
                 'amount': self._parse_amount(line[5 if is_actual else 2])
