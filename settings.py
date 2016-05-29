@@ -13,24 +13,27 @@ FEATURED_PROGRAMMES = ['16500', '13200', '33800', '24100']
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label.es': 'Sobre bienes inmuebles de naturaleza urbana'
+                            'label': 'Sobre bienes inmuebles de naturaleza urbana'
                           },
                           '13', '42', '45',
                           {
+                            'nodes': [['39', '391']],
+                            'label': 'Multas'
+                          },
+                          {
                             'nodes': [['11', '115']],
-                            'label.es': 'Impuesto sobre vehículos de tracción mecánica'
+                            'label': 'Impuesto sobre vehículos de tracción mecánica'
                           },
                           {
                             'nodes': [['30', '302']],
-                            'label.ca': "Servei de recollida d'escombraries",
-                            'label.es': 'Servicio de recogida de basuras'
+                            'label': 'Servicio de recogida de basuras'
                           },
                         ]
-OVERVIEW_EXPENSE_NODES = ['15', '92', '32', '16', '43', '34', '13']
+OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '01', '15', '33', '23', '17', '44', '32']
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
-# OVERVIEW_RELAX_FACTOR = 0.5
+OVERVIEW_RELAX_FACTOR = 0.5
 
 # Show Payments section in menu & home options. Default: False.
 # SHOW_PAYMENTS           = True
