@@ -49,17 +49,19 @@ class SantiagoBudgetLoader(SimpleBudgetLoader):
             # We got 5-digit functional codes as input, but leading zero may be lost
             fc_code = line[1].rjust(5, '0')
 
-            # Institutional codes are 3-digits (although leading zeros tend to disappear).
-            # But in order to fit with our data model we need to treat them as department codes,
-            # adding two leading zeros for institution and section.
-            ic_code = line[0].rjust(5, '0')
-
             # For years before 2015 we check whether we need to amend the programme code
-            # year = re.search('municipio/(\d+)/', filename).group(1)
+            year = re.search('municipio/(\d+)/', filename).group(1)
             # if int(year) < 2015:
             #     fc_code = programme_mapping.get(fc_code, fc_code)
             # else:
             #     fc_code = programme_mapping_post_2014.get(fc_code, fc_code)
+
+            # Institutional codes are 3-digits (although leading zeros tend to disappear).
+            # But in order to fit with our data model we need to treat them as department codes,
+            # adding two leading zeros for institution and section.
+            # Slightly more complicated: codes are inconsistent across years, so we're going
+            # to use separate code tables for each year: we append the year's last two digits.
+            ic_code = line[0].rjust(5, '0')+'-'+year[-2:]
 
             return {
                 'is_expense': True,

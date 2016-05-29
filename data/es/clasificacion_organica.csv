@@ -1,13 +1,22 @@
 #Institución,Sección,Nombre
 0,,,Ayuntamiento de Santiago
 0,0,000,Ayuntamiento de Santiago
-0,0,010,Alcaldía
-0,0,020,"Políticas Sociais, Diversidade e Saúde"
-0,0,030,Economía e Facenda
-0,0,040,Acción Cultural
-0,0,050,"Espazos Cidadáns, Dereito á Vivenda e Mobilidade"
-0,0,060,Medio Ambiente e Convivencia
-0,0,070,"Igualdade, Desenvolvemento Económico e Turismo"
-0,0,080,Educación e Cidadanía
-0,0,090,"Mocidade, Deporte e Benestar Animal"
-0,0,100,Medio Rural e Equilibrio Territorial
+0,0,010-15,Alcaldía 
+0,0,020-15,Área De Servizos Sociais 
+0,0,030-15,Área De Facenda 
+0,0,040-15,Concellería De Cultura E Patrimonio 
+0,0,050-15,Área De Desenvolvemento Urbano E Sostible 
+0,0,060-15,Área De Seguridade E Mobilidade 
+0,0,070-15,Área De Economía 
+0,0,080-15,Área De Réxime Interior E Administración Pública 
+0,0,090-15,Área De Relacións Veciñais 
+0,0,010-16,Alcaldía
+0,0,020-16,"Políticas Sociais, Diversidade e Saúde"
+0,0,030-16,Economía e Facenda
+0,0,040-16,Acción Cultural
+0,0,050-16,"Espazos Cidadáns, Dereito á Vivenda e Mobilidade"
+0,0,060-16,Medio Ambiente e Convivencia
+0,0,070-16,"Igualdade, Desenvolvemento Económico e Turismo"
+0,0,080-16,Educación e Cidadanía
+0,0,090-16,"Mocidade, Deporte e Benestar Animal"
+0,0,100-16,Medio Rural e Equilibrio Territorial
