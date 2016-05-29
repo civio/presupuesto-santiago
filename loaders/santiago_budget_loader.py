@@ -16,32 +16,31 @@ class SantiagoBudgetLoader(SimpleBudgetLoader):
         # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
         # mapping to be constant over time, we are forced to amend budget data prior to 2015.
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
-        # programme_mapping = {
-        #     # old programme: new programme
-        #     '1340': '1350',
-        #     '1550': '1530',
-        #     '1600': '1601',
-        #     '2400': '2410',
-        #     '3100': '3110',
-        #     '3130': '3110',
-        #     '3210': '3230',
-        #     '3230': '3260',
-        #     '3240': '3260',
-        #     '3310': '3300',
-        #     '3320': '3321',
-        #     '4590': '4599',
-        #     '9230': '9232',
-        #     '9290': '9299',
-        # }
+        programme_mapping = {
+            # old programme: new programme
+            '13400': '13500',
+            '13500': '13600',
+            '15200': '15220',
+            '15500': '15320',
+            '23000': '23100',
+            '23102': '23109',
+            '23200': '23102',
+            '23201': '23103',
+            '23202': '23104',
+            '23203': '23100',
+            '23300': '23100',
+            '31300': '31100',
+            '32100': '32300',
+            '32101': '32301',
+            '32102': '32302',
+            '32200': '32400',
+            '32300': '32600',
+            '32400': '32600',
+            '33601': '33600',
+            '43101': '43120',
+            '44100': '44110',
 
-        # # Some inconsistencies in 2015- also
-        # programme_mapping_post_2014 = {
-        #     # old programme: new programme
-        #     '1610': '1600',
-        #     '9292': '4510',
-        #     '9291': '4590',
-        #     '4590': '4599'
-        # }
+        }
 
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
@@ -51,10 +50,8 @@ class SantiagoBudgetLoader(SimpleBudgetLoader):
 
             # For years before 2015 we check whether we need to amend the programme code
             year = re.search('municipio/(\d+)/', filename).group(1)
-            # if int(year) < 2015:
-            #     fc_code = programme_mapping.get(fc_code, fc_code)
-            # else:
-            #     fc_code = programme_mapping_post_2014.get(fc_code, fc_code)
+            if int(year) < 2015:
+                fc_code = programme_mapping.get(fc_code, fc_code)
 
             # Institutional codes are 3-digits (although leading zeros tend to disappear).
             # But in order to fit with our data model we need to treat them as department codes,
