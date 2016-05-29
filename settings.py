@@ -75,22 +75,22 @@ LANGUAGES = (
 )
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'http://www.polinya.cat/public/ajuntament/documents-oficials/Pressupostos/'
+DATA_SOURCE_BUDGET      = 'http://www.santiagodecompostela.gal/casa_concello/transparencia.php?idn=./Informacion_economica_e_financieira/Orzamento_2015&lg=gal'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2861'
+DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2868&L=0'
 
 # Setup Data Source Inflation link
 DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = 'http://www.polinya.cat'
+MAIN_ENTITY_WEB_URL     = 'http://www.santiagodecompostela.gal'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL   = 'http://www.polinya.cat/public/informacio-complementaria/avis-legal/'
+MAIN_ENTITY_LEGAL_URL   = 'http://www.santiagodecompostela.gal/avisolegal.php?lg=gal'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-COOKIES_URL             = 'http://www.polinya.cat/public/informacio-complementaria/avis-legal/#galetes'
+COOKIES_URL             = 'http://www.santiagodecompostela.gal/avisolegal.php?lg=gal'
 
 # Allow overriding of default treemap color scheme
 COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]
