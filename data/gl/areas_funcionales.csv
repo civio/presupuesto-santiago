@@ -1,0 +1,123 @@
+#Área,Política,Grupo,Programa,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+0,,,,Deuda pública
+0,1,,,Deuda pública
+1,,,,Servicios públicos básicos
+1,3,,,Seguridad y movilidad ciudadana
+1,5,,,Vivienda y urbanismo
+1,6,,,Bienestar comunitario
+1,7,,,Medio ambiente
+2,,,,Actuaciones de protección y promoción social
+2,1,,,Pensiones
+2,2,,,Otras prestaciones económicas a favor de empleados
+2,3,,,Servicios sociales y promoción social
+2,4,,,Fomento del empleo
+3,,,,Produccion de bienes públicos de caracter preferente
+3,1,,,Sanidad
+3,2,,,Educación
+3,3,,,Cultura
+3,4,,,Deporte
+4,,,,Actuaciones de caracter económico
+4,1,,,Agricultura ganadería y pesca
+4,2,,,Industria y energía
+4,3,,,"Comercio, turismo y pequeñas y medianas empresas"
+4,4,,,Transporte público
+4,5,,,Infraestructuras
+4,6,,,"Investigación, desarrollo e innovación"
+4,9,,,Otras actuaciones de caracter económico
+9,,,,Actuaciones de caracter general
+9,1,,,Órganos de gobierno
+9,2,,,Servicios de carácter general
+9,3,,,Administración financiera y tributaria
+9,4,,,Transferencias a otras administraciónes públicas
+#
+# Programas específicos de Santiago
+0,1,1,00,Débeda Pública
+1,3,2,00,Seguridade e Orde Público
+1,3,3,00,Ordeación do tráfico e o estacionamento
+1,3,4,00,Mobilidade Urbana
+1,3,5,00,Protección Civil
+1,3,6,00,Servizo de Extinción de Incendios
+1,5,0,00,Administración Xeral de Vivenda e Urbanismo
+1,5,1,00,Urbanismo
+1,5,1,01,Planeamento e Xestión Urbanística
+1,5,1,02,Xestión De Licenzas e Disciplina
+1,5,1,03,Expropiacións
+1,5,2,20,Vivenda
+1,5,3,20,Pavimentación de Vías Públicas
+1,5,3,21,Actuacións Integrais en Vías Públicas
+1,5,3,40,Infraestruturas Urbanas
+1,6,0,00,Saneamento
+1,6,1,00,Abastecemento domiciliario de auga potable
+1,6,2,00,"Recollida, eliminación e tratamento de residuos"
+1,6,2,10,Recollida de Residuos
+1,6,2,20,Xestión de residuos sólidos urbanos
+1,6,2,30,Tratamento de residuos
+1,6,3,00,Limpeza Viaria e Lixo
+1,6,4,00,Cemiterios e Servizos funerarios
+1,6,5,00,Alumeado público
+1,7,1,00,Parques e Xardíns
+1,7,2,00,Administración Xeral de Medio Ambiente
+1,7,2,10,"Protección contra a contaminación acústica, lumínica e atmosférica nas zonas urbanas"
+2,2,1,00,Outras prestacións económicas a favor de empregados
+2,3,1,00,Asistencia Social Primaria
+2,3,1,01,UMAD
+2,3,1,02,Muller
+2,3,1,03,Emigración/Inmigración
+2,3,1,04,Mocidade
+2,3,1,09,Acción Social. Infraestruturas
+2,4,1,00,Fomento do Emprego
+3,1,1,00,Protección da Salubridade Pública
+3,1,1,01,Protección da Salubridade Pública: Benestar Animal
+3,2,0,00,Administración Xeral de Educación
+3,2,3,00,Funcionamento dos CEIPS
+3,2,3,01,Funcionamento de Escolas Infantís Municipais
+3,2,3,02,Funcionamento de Escolas Infantís Consorcio
+3,2,4,00,Funcionamento de Centros de Ensino Secundario
+3,2,6,00,Servizos Complementarios de Educación
+3,3,0,00,Administración Xeral de Cultura
+3,3,2,20,Arquivos
+3,3,3,00,Museos e Artes Plásticas
+3,3,4,00,Promoción Cultural
+3,3,4,01,Banda de Música
+3,3,4,02,Normalización Lingüística
+3,3,4,03,Centros Socioculturais
+3,3,4,04,Asociacións Veciñais
+3,3,5,00,Artes Escénicas
+3,3,6,00,Protección Patrimonio Histórico-Artístico
+3,3,8,00,Festexos
+3,4,0,00,Administración Xeral do Deporte
+3,4,1,00,Promoción e Fomento do Deporte
+3,4,2,00,Instalacións deportivas
+4,3,1,00,Comercio
+4,3,1,20,Mercados
+4,3,2,00,Información e Promoción Turística
+4,3,3,00,Desenvolvemento Empresarial
+4,4,1,10,Transporte colectivo urbano de viaxeiros
+4,4,2,00,Infraestruturas do Transporte
+4,5,0,00,Administración Xeral de Infraestruturas
+4,5,3,00,Carreteras
+4,5,4,00,Camiños Veciñais
+4,5,9,00,Outras Infraestructuras
+4,6,3,00,Investigación Técnica
+4,9,1,00,Sociedade da Información
+4,9,3,00,Protección de consumidores e usuarios
+9,1,2,00,Órganos de Goberno
+9,1,2,01,Protocolo
+9,2,0,00,Administración Xeral
+9,2,0,01,Informática
+9,2,0,02,Presidencia
+9,2,2,00,Coordinación e Organización Institucional das Entidades Locais
+9,2,3,00,Estatística
+9,2,4,00,Participación Cidadá
+9,2,4,02,Relacions Veciñais
+9,2,5,00,Atención aos Cidadáns
+9,2,5,01,Comunicación
+9,2,9,00,"Imprevistos, Situacións Transitorias e Continxencias"
+9,3,1,00,Política Económica e Fiscal
+9,3,2,00,Xestión do Sistema Tributario
+9,3,3,00,Xestión do Patrimonio
+9,3,4,00,Xestión da Débeda e da Tesourería
+9,4,3,00,Transferencias a outras Entidades Locais
