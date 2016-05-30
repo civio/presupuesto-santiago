@@ -240,35 +240,9 @@ table.table-grid{
   }
 }
 
-/*
-.tax-receipt-table-content{
-  background: white;
+#cookie-bar .cb-enable{
+  color: $brand-secondary;
 }
-
-.tax-receipt-content{
-
-  .form-user-incomings,
-  #tax-amount{
-    background: $brand-secondary;
-  }
-
-  .form-user-incomings{
-    
-    h3{
-      color: $gray-light;
-    }
-
-    label.bonus{
-      font-weight: normal;
-    }
-
-    .checkbox{
-      clear: both;
-
-      label{
-        line-height: 20px;
-      }
-    }
-  }
+#cookie-bar a{
+  background: $brand-secondary;
 }
-*/
