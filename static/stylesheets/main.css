@@ -8061,17 +8061,17 @@ table.table-grid {
   table.table-grid tr td a {
     color: #444; }
 
-#cookie-bar a {
+#cookie-bar a.cb-enable {
   color: white;
   background-color: #bb0033; }
-  #cookie-bar a:hover {
+  #cookie-bar a.cb-enable:hover {
     color: #bb0033;
     background: transparent; }
 
-.chart-embed-btn .cb-policy {
-  color: #bb0033;
-  background-color: transparent; }
-  .chart-embed-btn .cb-policy:hover {
+#cookie-bar a.cb-policy {
+  background: transparent;
+  color: #bb0033; }
+  #cookie-bar a.cb-policy:hover {
     color: #444; }
 
 /*# sourceMappingURL=main.css.map */

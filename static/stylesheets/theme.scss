@@ -232,7 +232,7 @@ table.table-grid{
   }
 }
 
-#cookie-bar a{
+#cookie-bar a.cb-enable{
   color: white;
   background-color: $brand-secondary;
 
@@ -241,10 +241,9 @@ table.table-grid{
     background: transparent;
   }
 }
-
-.chart-embed-btn .cb-policy{
+#cookie-bar a.cb-policy{
+  background: transparent;
   color: $brand-secondary;
-  background-color: transparent;
 
   &:hover{
     color: $text-color;
