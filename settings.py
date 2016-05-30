@@ -13,20 +13,24 @@ FEATURED_PROGRAMMES = ['16500', '13200', '33800', '24100']
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label': 'Sobre bienes inmuebles de naturaleza urbana'
+                            'label.es': 'Impuesto a bienes inmuebles de naturaleza urbana',
+                            'label.gl': 'Imposto sobre inmobiliario de natureza urbana'
                           },
                           '13', '42', '45',
                           {
                             'nodes': [['39', '391']],
-                            'label': 'Multas'
+                            'label.es': 'Multas',
+                            'label.gl': 'Multas'
                           },
                           {
                             'nodes': [['11', '115']],
-                            'label': 'Impuesto sobre vehículos de tracción mecánica'
+                            'label.es': 'Impuesto sobre vehículos de tracción mecánica',
+                            'label.gl': 'Imposto sobre vehículos a motor'
                           },
                           {
                             'nodes': [['30', '302']],
-                            'label': 'Servicio de recogida de basuras'
+                            'label.es': 'Servicio de recogida de basuras',
+                            'label.gl': 'Servizo de recollida de lixo'
                           },
                         ]
 OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '01', '15', '33', '23', '17', '44', '32']
@@ -71,11 +75,12 @@ SEARCH_ENTITIES = False
 
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
+  ('gl', 'Galego'),
   ('es', 'Castellano'),
 )
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'http://www.santiagodecompostela.gal/casa_concello/transparencia.php?idn=./Informacion_economica_e_financieira/Orzamento_2015&lg=gal'
+DATA_SOURCE_BUDGET      = 'http://www.santiagodecompostela.gal/casa_concello/transparencia.php?idn=.%2FInformacion_economica_e_financieira&lg=gal'
 
 # Setup Data Source Population link
 DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2868&L=0'
