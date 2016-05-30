@@ -232,16 +232,7 @@ table.table-grid{
   }
 }
 
-.chart-embed-btn a{
-  color: $brand-secondary;
-  background-color: transparent;
-
-  &:hover{
-    color: $text-color;
-  }
-}
-
-#cookie-bar .cb-enable{
+#cookie-bar a{
   color: white;
   background-color: $brand-secondary;
 
@@ -250,6 +241,12 @@ table.table-grid{
     background: transparent;
   }
 }
-#cookie-bar a{
-  background: $brand-secondary;
+
+.chart-embed-btn .cb-policy{
+  color: $brand-secondary;
+  background-color: transparent;
+
+  &:hover{
+    color: $text-color;
+  }
 }
