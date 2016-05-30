@@ -233,15 +233,22 @@ table.table-grid{
 }
 
 .chart-embed-btn a{
-  background-color: $gray-light;
+  color: $brand-secondary;
+  background-color: transparent;
 
   &:hover{
-    background-color: $gray;
+    color: $text-color;
   }
 }
 
 #cookie-bar .cb-enable{
-  color: $brand-secondary;
+  color: white;
+  background-color: $brand-secondary;
+
+  &:hover{
+    color: $brand-secondary;
+    background: transparent;
+  }
 }
 #cookie-bar a{
   background: $brand-secondary;
