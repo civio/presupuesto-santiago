@@ -49,6 +49,7 @@
 1,5,3,20,Pavimentación de Vías Públicas
 1,5,3,21,Actuacións Integrais en Vías Públicas
 1,5,3,40,Infraestruturas Urbanas
+1,5,9,00,Outras actividades relacionadas co urbanismo
 1,6,0,00,Saneamento
 1,6,1,00,Abastecemento domiciliario de auga potable
 1,6,2,00,"Recollida, eliminación e tratamento de residuos"
@@ -68,6 +69,7 @@
 2,3,1,03,Emigración/Inmigración
 2,3,1,04,Mocidade
 2,3,1,09,Acción Social. Infraestruturas
+2,3,9,00,Outras actividades relacionadas con Servizos Sociais
 2,4,1,00,Fomento do Emprego
 3,1,1,00,Protección da Salubridade Pública
 3,1,1,01,Protección da Salubridade Pública: Benestar Animal
@@ -77,6 +79,7 @@
 3,2,3,02,Funcionamento de Escolas Infantís Consorcio
 3,2,4,00,Funcionamento de Centros de Ensino Secundario
 3,2,6,00,Servizos Complementarios de Educación
+3,2,9,00,Outras actividades relacionadas coa educación
 3,3,0,00,Administración Xeral de Cultura
 3,3,2,20,Arquivos
 3,3,3,00,Museos e Artes Plásticas
@@ -91,6 +94,7 @@
 3,4,0,00,Administración Xeral do Deporte
 3,4,1,00,Promoción e Fomento do Deporte
 3,4,2,00,Instalacións deportivas
+3,4,9,00,Outras actividades relacionadas co deporte
 4,3,1,00,Comercio
 4,3,1,20,Mercados
 4,3,2,00,Información e Promoción Turística
@@ -112,6 +116,7 @@
 9,2,2,00,Coordinación e Organización Institucional das Entidades Locais
 9,2,3,00,Estatística
 9,2,4,00,Participación Cidadá
+9,2,4,01,Gastos Electorais
 9,2,4,02,Relacions Veciñais
 9,2,5,00,Atención aos Cidadáns
 9,2,5,01,Comunicación
@@ -120,4 +125,7 @@
 9,3,2,00,Xestión do Sistema Tributario
 9,3,3,00,Xestión do Patrimonio
 9,3,4,00,Xestión da Débeda e da Tesourería
+9,3,5,00,Xestión Contable
+9,3,9,00,Facenda
 9,4,3,00,Transferencias a outras Entidades Locais
+9,4,5,00,Consorcio Cidade Santiago
