@@ -13,23 +13,23 @@ FEATURED_PROGRAMMES = ['16500', '13200', '33800', '24100']
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label.es': 'Impuesto a bienes inmuebles de naturaleza urbana',
+                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
                             'label.gl': 'Imposto sobre inmobiliario de natureza urbana'
                           },
                           '13', '42', '45',
                           {
                             'nodes': [['39', '391']],
-                            'label.es': 'Multas',
+                            'label': 'Multas',
                             'label.gl': 'Multas'
                           },
                           {
                             'nodes': [['11', '115']],
-                            'label.es': 'Impuesto sobre vehículos de tracción mecánica',
+                            'label': 'Impuesto sobre vehículos de tracción mecánica',
                             'label.gl': 'Imposto sobre vehículos a motor'
                           },
                           {
                             'nodes': [['30', '302']],
-                            'label.es': 'Servicio de recogida de basuras',
+                            'label': 'Servicio de recogida de basuras',
                             'label.gl': 'Servizo de recollida de lixo'
                           },
                         ]
