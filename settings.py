@@ -75,7 +75,7 @@ SEARCH_ENTITIES = False
 
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
-  # ('gl', 'Galego'),
+  ('gl', 'Galego'),
   ('es', 'Castellano'),
 )
 
