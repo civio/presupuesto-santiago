@@ -1,6 +1,48 @@
 #Institución,Sección,Nombre
 0,,,Ayuntamiento de Santiago
 0,0,000,Ayuntamiento de Santiago
+0,0,010-11,Alcaldía
+0,0,020-11,Cultura e Centros Socio Culturais
+0,0,030-11,Mobilidade e Transportes
+0,0,040-11,"Obras, Infraestruturas e Deportes"
+0,0,050-11,Xuventude e Festas
+0,0,060-11,"Relacións Institucionais, Sanidade, Consumo e Mercados"
+0,0,070-11,Medio Ambiente e Desenvolvemento Sostible
+0,0,080-11,"Urbanismo, Vivenda e Educación"
+0,0,090-11,"Seguridade, Protección Civil, Extinción De Incendios, Tráfico e Servizos Diversos"
+0,0,100-11,"Facenda, Réxime Interior, Persoal e Reforma Administrativa"
+0,0,110-11,"Promoción Económica, Emprego, Comercio e Turismo"
+0,0,120-11,Participación Cidadá e Normalización Lingüística
+0,0,130-11,Rehabilitación e Cidade Histórica
+0,0,140-11,Benestar Social e Igualdade
+0,0,010-12,Alcaldía
+0,0,020-12,Educación e Normalización Lingüística
+0,0,030-12,"Facenda, Orzamentos e Contratación"
+0,0,040-12,Xuventude e Deportes
+0,0,050-12,Cultura
+0,0,060-12,"Barrios, Recollida De Lixo, Limpeza Viaria e Brigada De Vías e Obras"
+0,0,070-12,"Medio Ambiente, Obras e Infraestruturas, Sanidade e Parques e Xardíns"
+0,0,080-12,"Medio Rural, Alumeado Público, Abastecemento e Saneamento"
+0,0,090-12,"Mobilidade, Seguridade Cidadá, Tráfico e Grúa e Ora"
+0,0,100-12,"Réxime Interior, Persoal, Informática, Consumo e Atención Cidadá"
+0,0,110-12,"Economía, Comercio, Turismo e Mercados"
+0,0,120-12,"Relacións Institucionais, Participación Cidadá e CSC"
+0,0,130-12,"Urbanismo, Vivenda, Rehabilitación e Cidade Histórica"
+0,0,140-12,"Familia, Benestar Social, Muller e Emprego"
+0,0,010-13,Alcaldía
+0,0,020-13,Educación e Normalización Lingüística
+0,0,030-13,"Facenda, Orzamentos e Contratación"
+0,0,040-13,Xuventude e Deportes
+0,0,050-13,Cultura
+0,0,060-13,"Barrios, Recollida De Lixo, Limpeza Viaria e Brigada De Vías e Obras"
+0,0,070-13,"Medio Ambiente, Obras e Infraestruturas, Sanidade e Parques e Xardíns"
+0,0,080-13,"Medio Rural, Alumeado Público, Abastecemento e Saneamento"
+0,0,090-13,"Mobilidade, Seguridade Cidadá, Tráfico e Grúa e Ora"
+0,0,100-13,"Réxime Interior, Persoal, Informática, Consumo e Atención Cidadá"
+0,0,110-13,"Economía, Comercio, Turismo e Mercados"
+0,0,120-13,"Relacións Institucionais, Participación Cidadá e CSC"
+0,0,130-13,"Urbanismo, Vivenda, Rehabilitación e Cidade Histórica"
+0,0,140-13,"Familia, Benestar Social, Muller e Emprego"
 0,0,010-14,Alcaldía
 0,0,020-14,Área de Servizos Sociais
 0,0,021-14,Xuventude e Normalización Lingüística
