@@ -43,7 +43,7 @@ OVERVIEW_RELAX_FACTOR = 0.35
 # SHOW_PAYMENTS           = True
 
 # Show Tax Receipt section in menu & home options. Default: False.
-SHOW_TAX_RECEIPT        = True
+SHOW_TAX_RECEIPT        = False
 
 # Show Counties & Towns links in Policies section in menu & home options. Default: False.
 SHOW_COUNTIES_AND_TOWNS = False
