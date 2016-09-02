@@ -232,6 +232,19 @@ table.table-grid{
   }
 }
 
+// Tax Receipt
+.tax-receipt-content{
+  .form-user-incomings{
+    background: $brand-primary;
+  }
+  #tax-amount{
+    border: none;
+  }
+}
+.tax-receipt-table-content{
+  background: white;
+}
+
 #cookie-bar a.cb-enable{
   color: white;
   background-color: $brand-secondary;
