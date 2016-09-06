@@ -34,98 +34,98 @@
 9,4,,,Transferencias a otras administraciónes públicas
 #
 # Programas específicos de Santiago
-0,1,1,00,Débeda Pública
-1,3,2,00,Seguridade e Orde Público
-1,3,3,00,Ordeación do tráfico e o estacionamento
-1,3,4,00,Mobilidade Urbana
+0,1,1,00,Deuda pública
+1,3,2,00,Seguridad y orden público
+1,3,3,00,Ordenación del tráfico y del estacionamiento
+1,3,4,00,Mobilidad urbana
 1,3,5,00,Protección Civil
-1,3,6,00,Servizo de Extinción de Incendios
-1,5,0,00,Administración Xeral de Vivenda e Urbanismo
+1,3,6,00,Servicio de extinción de incendios
+1,5,0,00,Administración general de vivienda y urbanismo
 1,5,1,00,Urbanismo
-1,5,1,01,Planeamento e Xestión Urbanística
-1,5,1,02,Xestión De Licenzas e Disciplina
-1,5,1,03,Expropiacións
-1,5,2,20,Vivenda
-1,5,3,20,Pavimentación de Vías Públicas
-1,5,3,21,Actuacións Integrais en Vías Públicas
-1,5,3,40,Infraestruturas Urbanas
-1,5,9,00,Outras actividades relacionadas co urbanismo
-1,6,0,00,Saneamento
-1,6,1,00,Abastecemento domiciliario de auga potable
-1,6,2,00,"Recollida, eliminación e tratamento de residuos"
-1,6,2,10,Recollida de Residuos
-1,6,2,20,Xestión de residuos sólidos urbanos
-1,6,2,30,Tratamento de residuos
-1,6,3,00,Limpeza Viaria e Lixo
-1,6,4,00,Cemiterios e Servizos funerarios
-1,6,5,00,Alumeado público
-1,7,1,00,Parques e Xardíns
-1,7,2,00,Administración Xeral de Medio Ambiente
-1,7,2,10,"Protección contra a contaminación acústica, lumínica e atmosférica nas zonas urbanas"
-2,2,1,00,Outras prestacións económicas a favor de empregados
-2,3,1,00,Asistencia Social Primaria
-2,3,1,01,UMAD
-2,3,1,02,Muller
+1,5,1,01,Planificación y gestión urbanística
+1,5,1,02,Gestión de licencias y disciplina
+1,5,1,03,Expropiaciones
+1,5,2,20,Vivienda
+1,5,3,20,Pavimentación de vías públicas
+1,5,3,21,Actuaciones integrales en vías públicas
+1,5,3,40,Infraestructuras urbanas
+1,5,9,00,Otras actividades relacionadas con el urbanismo
+1,6,0,00,Saneamiento
+1,6,1,00,Abastecemiento domiciliario de agua potable
+1,6,2,00,"Recogida, eliminación y tratamiento de residuos"
+1,6,2,10,Recogida de residuos
+1,6,2,20,Gestión de residuos sólidos urbanos
+1,6,2,30,Tratamiento de residuos
+1,6,3,00,Limpieza viaria y basuras
+1,6,4,00,Cementerios y servicios funerarios
+1,6,5,00,Alumbrado público
+1,7,1,00,Parques y jardines
+1,7,2,00,Administración general de medio ambiente
+1,7,2,10,"Protección contra la contaminación acústica, lumínica y atmosférica en zonas urbanas"
+2,2,1,00,Otras prestaciones económicas a favor de empleados
+2,3,1,00,Asistencia social primaria
+2,3,1,01,Unidad Municipal de Atención a las Drogodependencias (UMAD)
+2,3,1,02,Mujer
 2,3,1,03,Emigración/Inmigración
-2,3,1,04,Mocidade
-2,3,1,09,Acción Social. Infraestruturas
-2,3,9,00,Outras actividades relacionadas con Servizos Sociais
-2,4,1,00,Fomento do Emprego
-3,1,1,00,Protección da Salubridade Pública
-3,1,1,01,Protección da Salubridade Pública: Benestar Animal
-3,2,0,00,Administración Xeral de Educación
-3,2,3,00,Funcionamento dos CEIPS
-3,2,3,01,Funcionamento de Escolas Infantís Municipais
-3,2,3,02,Funcionamento de Escolas Infantís Consorcio
-3,2,4,00,Funcionamento de Centros de Ensino Secundario
-3,2,6,00,Servizos Complementarios de Educación
-3,2,9,00,Outras actividades relacionadas coa educación
-3,3,0,00,Administración Xeral de Cultura
-3,3,2,20,Arquivos
-3,3,3,00,Museos e Artes Plásticas
-3,3,4,00,Promoción Cultural
-3,3,4,01,Banda de Música
-3,3,4,02,Normalización Lingüística
-3,3,4,03,Centros Socioculturais
-3,3,4,04,Asociacións Veciñais
-3,3,5,00,Artes Escénicas
-3,3,6,00,Protección Patrimonio Histórico-Artístico
-3,3,8,00,Festexos
-3,4,0,00,Administración Xeral do Deporte
-3,4,1,00,Promoción e Fomento do Deporte
-3,4,2,00,Instalacións deportivas
-3,4,9,00,Outras actividades relacionadas co deporte
+2,3,1,04,Juventud
+2,3,1,09,Acción Social. Infraestructuras
+2,3,9,00,Otras actividades relacionadas con servicios sociales
+2,4,1,00,Fomento del empleo
+3,1,1,00,Protección de la salud pública
+3,1,1,01,Protección de la salud pública: bienestar animal
+3,2,0,00,Administración general de educación
+3,2,3,00,Funcionamiento de los centros de enseñanza infantil y primaria (CEIPs)
+3,2,3,01,Funcionamiento de escuelas infantiles municipales
+3,2,3,02,Funcionamiento de escuelas infantiles consorcio
+3,2,4,00,Funcionamiento de centros de enseñanza secundaria
+3,2,6,00,Servicios complementarios de educación
+3,2,9,00,Otras actividades relacionadas con la educación
+3,3,0,00,Administración general de cultura
+3,3,2,20,Archivos
+3,3,3,00,Museos y artes plásticas
+3,3,4,00,Promoción cultural
+3,3,4,01,Banda de música
+3,3,4,02,Normalización lingüística
+3,3,4,03,Centros socioculturales
+3,3,4,04,Asociaciones vecinales
+3,3,5,00,Artes escénicas
+3,3,6,00,Protección patrimonio histórico-artístico
+3,3,8,00,Festejos
+3,4,0,00,Administración general de deporte
+3,4,1,00,Promoción y fomento del deporte
+3,4,2,00,Instalaciones deportivas
+3,4,9,00,Otras actividades relacionadas con el deporte
 4,3,1,00,Comercio
 4,3,1,20,Mercados
-4,3,2,00,Información e Promoción Turística
-4,3,3,00,Desenvolvemento Empresarial
-4,4,1,10,Transporte colectivo urbano de viaxeiros
-4,4,2,00,Infraestruturas do Transporte
-4,5,0,00,Administración Xeral de Infraestruturas
+4,3,2,00,Información y promoción turística
+4,3,3,00,Desarrollo Empresarial
+4,4,1,10,Transporte colectivo urbano de viajeros
+4,4,2,00,Infraestructuras de transporte
+4,5,0,00,Administración general de infraestructuras
 4,5,3,00,Carreteras
-4,5,4,00,Camiños Veciñais
-4,5,9,00,Outras Infraestructuras
-4,6,3,00,Investigación Técnica
-4,9,1,00,Sociedade da Información
-4,9,3,00,Protección de consumidores e usuarios
-9,1,2,00,Órganos de Goberno
+4,5,4,00,Caminos vecinales
+4,5,9,00,Otras infraestructuras
+4,6,3,00,Investigación técnica
+4,9,1,00,Sociedad de la información
+4,9,3,00,Protección de consumidores y usuarios
+9,1,2,00,Órganos de gobierno
 9,1,2,01,Protocolo
-9,2,0,00,Administración Xeral
+9,2,0,00,Administración general
 9,2,0,01,Informática
 9,2,0,02,Presidencia
-9,2,2,00,Coordinación e Organización Institucional das Entidades Locais
-9,2,3,00,Estatística
-9,2,4,00,Participación Cidadá
-9,2,4,01,Gastos Electorais
-9,2,4,02,Relacions Veciñais
-9,2,5,00,Atención aos Cidadáns
+9,2,2,00,Coordinación y organización institucional de las entidades locales
+9,2,3,00,Estadística
+9,2,4,00,Participación ciudadana
+9,2,4,01,Gastos electorales
+9,2,4,02,Relaciones vecinales
+9,2,5,00,Atención a los ciudadanos
 9,2,5,01,Comunicación
-9,2,9,00,"Imprevistos, Situacións Transitorias e Continxencias"
-9,3,1,00,Política Económica e Fiscal
-9,3,2,00,Xestión do Sistema Tributario
-9,3,3,00,Xestión do Patrimonio
-9,3,4,00,Xestión da Débeda e da Tesourería
-9,3,5,00,Xestión Contable
-9,3,9,00,Facenda
-9,4,3,00,Transferencias a outras Entidades Locais
-9,4,5,00,Consorcio Cidade Santiago
+9,2,9,00,"Imprevistos, situaciones transitorias y contingencias"
+9,3,1,00,Política económica y fiscal
+9,3,2,00,Gestión del sistema tributario
+9,3,3,00,Gestión del patrimonio
+9,3,4,00,Gestión de la deuda y de la tesorería
+9,3,5,00,Gestión contable
+9,3,9,00,Hacienda
+9,4,3,00,Transferencias a otras entidades locales
+9,4,5,00,Consorcio de la Ciudad de Santiago
