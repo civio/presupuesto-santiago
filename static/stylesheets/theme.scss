@@ -227,6 +227,9 @@ table.table-grid{
       background: $gray;
     }
   }
+  tr td{
+    border-color: $brand-primary;
+  }
   tr td a{
     color: $text-color;
   }
@@ -239,10 +242,11 @@ table.table-grid{
   }
   #tax-amount{
     border: none;
+    background: $brand-primary;
   }
 }
 .tax-receipt-table-content{
-  background: white;
+  background: $brand-primary;
 }
 
 #cookie-bar a.cb-enable{

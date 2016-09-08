@@ -7419,9 +7419,12 @@ header > .container {
   padding-top: 30px;
   background: #e0e0e0; }
   .tax-receipt-table-content .tax-detail-intro {
-    font-size: 1.125em;
+    font-size: 1.5em;
+    font-weight: 300;
     text-align: center;
     margin-bottom: 30px; }
+  .tax-receipt-table-content .table-grid {
+    background: white; }
 
 @media (min-width: 768px) {
   .tax-receipt-content .form-user-incomings h3 {
@@ -7775,16 +7778,19 @@ table.table-grid {
     background: #777777; }
     table.table-grid thead th:hover {
       background: #555555; }
+  table.table-grid tr td {
+    border-color: #ededed; }
   table.table-grid tr td a {
     color: #444; }
 
 .tax-receipt-content .form-user-incomings {
   background: #ededed; }
 .tax-receipt-content #tax-amount {
-  border: none; }
+  border: none;
+  background: #ededed; }
 
 .tax-receipt-table-content {
-  background: white; }
+  background: #ededed; }
 
 #cookie-bar a.cb-enable {
   color: white;
