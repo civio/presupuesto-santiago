@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-09-06 15:28+0200\n"
+"PO-Revision-Date: 2016-09-09 16:41+0200\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.9\n"
 
 #: templates/base.html:4 templates/shared/social_sharing.html:5
 msgid "Presupuestos del Gobierno de Aragón"
@@ -26,18 +26,16 @@ msgid "Información presupuestaria del Gobierno de Aragón"
 msgstr "Información sobre o orzamento do Concello de Santiago"
 
 #: templates/budgets/budgets_intro.html:16
-msgid ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y "
-"el IRPF"
-msgstr ""
-"O diñeiro recadado local é complementada por transferencias do goberno central e do goberno rexional de Galicia, que son responsables da creación de outros ingresos, como o IVE e imposto sobre a renda"
+msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
+msgstr "O diñeiro recadado local é complementada por transferencias do goberno central e do goberno rexional de Galicia, que son responsables da creación de outros ingresos, como o IVE e imposto sobre a renda"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Os ingresos e gastos no Concello de Santiago"
 
-#: templates/budgets/index.html:127 templates/shared/data_sources.html:7 templates/shared/footer.html:18 templates/shared/header.html:28 templates/shared/header.html.py:61
-#: templates/welcome/index.html:54
+#: templates/budgets/index.html:127 templates/shared/data_sources.html:7
+#: templates/shared/footer.html:18 templates/shared/header.html:28
+#: templates/shared/header.html.py:61 templates/welcome/index.html:54
 msgid "Gobierno de Aragón"
 msgstr "Concello de Santiago"
 
@@ -60,3 +58,42 @@ msgstr "Como e onde gasta o Concello de Santiago?"
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Para lle dar unha idea xeral de ingresos e gastos no Concello de Santiago"
+
+msgid "Ninguno (alquiler)"
+msgstr "Ningún (aluguer)"
+
+msgid "Piso de 75 m\\u00B2 situado en Quiroga Palacios"
+msgstr "Piso de 75 m\\u00B2 sito en Quiroga Palacios"
+
+msgid "Piso de 110 m\\u00B2 situado en Fontiñas"
+msgstr "Piso de 110 m\\u00B2 sito en Fontiñas"
+
+msgid "Piso de 140 m\\u00B2 situado en Castiñeiriño"
+msgstr "Piso de 140 m\\u00B2 sito en Castiñeiriño"
+
+msgid "Piso de 170 m\\u00B2 situado en Ensanche y otro de 175 m\\u00B2 situado en Cidade Vella"
+msgstr "Piso de 75 m\\u00B2 sito no Ensanche e outro de 175 m\\u00B2 sito en Cidade Vella"
+
+msgid "Coche pequeño (15 caballos fiscales)"
+msgstr "Coche pequeno (15 caballos fiscales)"
+
+msgid "Coche mediano (18 caballos fiscales)"
+msgstr "Coche mediano (18 caballos fiscales)"
+
+msgid "Coche grande (21 caballos fiscales)"
+msgstr "Coche grande (21 caballos fiscales)"
+
+msgid "Un adulto y un menor"
+msgstr "Un adulto e un menor"
+
+msgid "Dos adultos sin menores"
+msgstr "Dos adultos"
+
+msgid "Dos adultos y un menor"
+msgstr "Dous adultos e un menor"
+
+msgid "Dos adultos y tres menores"
+msgstr "Dous adultos e tres menores"
+
+msgid "Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href=\"#\" id=\"scenario-1\">piso de alquiler</a>, <a href=\"#\" id=\"scenario-2\">piso pequeño</a>, <a href=\"#\" id=\"scenario-3\">piso mediano con vado</a>, o <a href=\"#\" id=\"scenario-4\">piso grande con vado</a>) o modificar cada uno de los elementos de forma independiente."
+msgstr "Podes escoller o tipo de situación que mellor reflicta a túa realidade (<a href=\"#\" id=\"scenario-1\">piso de aluguer</a>, <a href=\"#\" id=\"scenario-2\">piso pequeno</a>, <a href=\"#\" id=\"scenario-3\">piso mediano con vado</a>, ou <a href=\"#\" id=\"scenario-4\">piso grande con vado</a>) ou modificar cada un dos elementos de forma independente."
