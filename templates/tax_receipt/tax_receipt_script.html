@@ -28,7 +28,12 @@
       return [0, 0, 4.25, 12.74, 21.24][$("#select-garbage").val()] + [74.04, 74.04, 74.04, 74.04, 148.08][$("#select-house").val()];
     }
     function getParkingTaxPaid() {
-      return [0, 71.10][$("#select-parking").val()];
+      if( $("#select-parking").val() == 0 ){
+        return 0;
+      }
+      else{
+        return [0, 71.10, 71.10, 32.45, 217.50][$("#select-house").val()];
+      }
     }
 
     function redrawGrid() {
