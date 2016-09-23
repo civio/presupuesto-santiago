@@ -25,7 +25,7 @@
       return [0, 121.4, 151.2, 188.9][$("#select-extra-vehicle").val()];
     }
     function getGarbageTaxPaid() {
-      return [74.04, 74.04, 78.29, 86.78, 95.28][$("#select-garbage").val()];
+      return [0, 0, 4.25, 12.74, 21.24][$("#select-garbage").val()] + [74.04, 74.04, 74.04, 74.04, 148.08][$("#select-house").val()];
     }
     function getParkingTaxPaid() {
       return [0, 71.10][$("#select-parking").val()];
