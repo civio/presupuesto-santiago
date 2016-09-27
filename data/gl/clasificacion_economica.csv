@@ -7,17 +7,17 @@ I,1,0,,Imposto sobre a Renda
 I,1,0,0,Imposto sobre a Renda das Persoas Físicas
 I,1,0,1,Imposto sobre sociedades
 I,1,0,2,Imposto sobre a Renda dos non residentes
-I,1,1,,Impuestos sobre el capital
+I,1,1,,Impostos sobre o capital
 I,1,1,0,Imposto xeral sobre sucesións e doazóns
 I,1,1,1,Imposto sobre o patrimonio
-I,1,1,2,Sobre bienes inmuebles de naturaleza rústica
-I,1,1,3,Sobre bienes inmuebles de naturaleza urbana
-I,1,1,4,Sobre bienes inmuebles de características especiales
-I,1,1,5,Impuesto sobre vehículos de tracción mecanica
-I,1,1,6,Impuesto sobre incremento del valor de los terrenos de naturaleza urbana
+I,1,1,2,Sobre bens inmobles de natureza rústica
+I,1,1,3,Sobre bens inmobles de natureza urbana
+I,1,1,4,Sobre bens inmobles de características especiais
+I,1,1,5,Imposto sobre vehículos de tracción mecánica
+I,1,1,6,Imposto sobre o incremento do valor dos terreos de natureza urbana
 I,1,1,7,Impuesto sobre viviendas desocupadas
-I,1,3,,Impuesto sobre las actividades económicas
-I,1,3,0,Impuesto sobre actividades económicas
+I,1,3,,Imposto sobre as actividades económicas
+I,1,3,0,Imposto sobre actividades económicas
 I,1,6,,Recargos sobre impuestos directos del Estado y de la Comunidad Autónoma
 I,1,6,0,Sobre impuestos del Estado
 I,1,6,1,Sobre impuestos de la Comunidad Autónoma
@@ -48,19 +48,19 @@ I,2,9,5,Impuesto sobre primas de seguros
 I,2,9,6,Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
 I,2,9,9,Otros impuestos indirectos
 I,3,,,"Taxas, prezos e outros ingresos"
-I,3,0,,Tasas por la prestación de servicios públicos básicos
+I,3,0,,Taxas pola prestación de servizos públicos básicos
 I,3,0,0,Servicio de abastecimiento de agua
 I,3,0,1,Servicio de alcantarillado
-I,3,0,2,Servicio de recogida de basuras
-I,3,0,3,Servicio de tratamiento de residuos
+I,3,0,2,Recollida de lixos
+I,3,0,3,Ingresos da xestión de residuos
 I,3,0,4,Canon de saneamiento
-I,3,0,9,Otras tasas por prestación de servicios básicos
+I,3,0,9,Outras taxas pola prestación de servizos públicos básicos
 I,3,1,,Taxas pola prestación de servizos públicos de carácter social e preferente
 I,3,1,0,Servicios hospitalarios
 I,3,1,1,Servizos asistenciais
 I,3,1,2,Servicios educativos
 I,3,1,3,Servizos deportivos
-I,3,1,9,Otras tasas por prestación de servicios de carácter preferente
+I,3,1,9,Outras taxas pola prestación de servizos públicos de carácter social e preferente
 I,3,2,,Taxas pola realización de actividades de competencia local
 I,3,2,0,Licencias de caza y pesca
 I,3,2,1,Licenzas urbanísticas
