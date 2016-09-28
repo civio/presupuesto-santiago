@@ -38,8 +38,8 @@ I,2,6,1,Sobre impuestos de la Comunidad Autónoma
 I,2,7,,Recargos sobre impuestos indirectos de otros entes locales
 I,2,7,0,Sobre impuestos de otros entes locales
 I,2,8,,Impuestos indirectos extinguidos
-I,2,9,,Otros impuestos indirectos
-I,2,9,0,"Impuesto sobre construcciones, instalaciones y obras"
+I,2,9,,Outros impostos indirectos
+I,2,9,0,"Imposto sobre construccións, instalacións e obras"
 I,2,9,1,"Impuesto sobre gastos suntuarios (Cotos de caza y pesca)"
 I,2,9,2,Arbitrio sobre importaciones y entregas de mercancias en Canarias (AIEM)
 I,2,9,3,Impuesto general indirecto canario (IGIC)
@@ -67,18 +67,18 @@ I,3,2,1,Licenzas urbanísticas
 I,3,2,2,Cédulas de habitabilidad y licencias de primera ocupación
 I,3,2,3,Tasas por otros servicios urbanísticos
 I,3,2,4,Tasas sobre el juego
-I,3,2,5,Tasa por expedición de documentos
+I,3,2,5,Taxa por expedición de documentos
 I,3,2,6,Tasa por retirada de vehículos
 I,3,2,7,Licencias de apertura de establecimientos
 I,3,2,9,Outras taxas pola realización de actividades de competencia local
 I,3,3,,Taxas pola utilización privativa ou o aproveitamento especial do dominio público local
 I,3,3,0,Tasa de estacionamiento de vehículos
-I,3,3,1,Tasa por entrada de vehículos
-I,3,3,2,Por empresas explotadoras de servicios de suministros
+I,3,3,1,Taxa por entrada de vehículos
+I,3,3,2,Por empresas explotadoras de servizos de subministración
 I,3,3,3,Por empresas explotadoras de servicios de telecomunicaciones
 I,3,3,4,Tasa por apertura de calas y zanjas
-I,3,3,5,Tasa por ocupación de la via pública con terrazas
-I,3,3,6,Tasa por ocupación de la via pública con suspensión temporal del trafico rodado
+I,3,3,5,Taxa por ocupación de la via pública con mesas e cadeiras
+I,3,3,6,Taxa por ocupación de la via pública con suspensión temporal do tráfico rodado
 I,3,3,7,Tasas por aprovechamiento del vuelo
 I,3,3,8,"Compensación de Telefónica de España, S.A."
 I,3,3,9,Outras taxas pola utilización privativa do dominio público
@@ -90,9 +90,9 @@ I,3,4,3,Servizos deportivos
 I,3,4,4,"Entradas a museos, exposiciones y espectáculos"
 I,3,4,5,Servicio de transporte público urbano
 I,3,4,9,Outros prezos públicos
-I,3,5,,Contribuciones especiales
+I,3,5,,Contribucions especiais
 I,3,5,0,Para la ejecución de obras
-I,3,5,1,Para el establecimiento o ampliación de servicios
+I,3,5,1,Para el establecemento o ampliación de servizos
 I,3,6,,Vendas
 I,3,6,0,Vendas
 I,3,8,,Reintegros de operacións correntes
@@ -123,30 +123,30 @@ I,4,4,0,De entes públicos
 I,4,4,1,De sociedades mercantiles
 I,4,5,,De comunidades autónomas
 I,4,5,0,Da Administración Xeral das comunidades autónomas
-I,4,5,1,De organismos autónomos y agencias de las comunidades autónomas
+I,4,5,1,De organismos autónomos e agenxias das comunidades autónomas
 I,4,5,2,De fundaciones de las comunidades autónomas
-I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas."
-I,4,6,,De entidades locales
-I,4,6,1,"De diputaciones, consejos o cabildos"
+I,4,5,3,"De sociedades mercantiles, entidades públicas empresariais e outros organismos públicos dependentes das comunidades autónomas"
+I,4,6,,De entidades locais
+I,4,6,1,"De deputacións, concellos o cabidos"
 I,4,6,2,De concellos
 I,4,6,3,De mancomunidades
 I,4,6,4,De áreas metropolitanas
 I,4,6,5,De comarcas
-I,4,6,6,De otras entidades que agrupen municipios
+I,4,6,6,De outras entidades que agrupen municipios
 I,4,6,7,De consorcios
 I,4,6,8,De entidades locales menores
 I,4,7,,De empresas privadas
 I,4,8,,De familias e institucións sen fins de lucro
 I,4,8,9,De familias e institucións sen fins de lucro
 I,4,9,,Do exterior
-I,4,9,0,Do Fondo de Social Europeo
-I,4,9,1,Del Fondo de Desarrollo Regional
+I,4,9,0,Do Fondo Social Europeo
+I,4,9,1,Do Fondo Europeo de Desenvolvemento Rexional (FEDER)
 I,4,9,2,Del Fondo de Cohesión
 I,4,9,3,Del Fondo Europeo Agrícola de Garantía (FEAGA)
 I,4,9,4,Del Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
 I,4,9,5,Del FEOGA-Orientación
 I,4,9,6,Del Fondo Europeo de la Pesca (FEP)
-I,4,9,7,Otras transferencias de la Unión Europea
+I,4,9,7,Outras transferencias da Unión Europea
 I,4,9,9,"Otras tansferencias del exterior, excluyendo la Unión Europea"
 I,5,,,Ingresos patrimoniais
 I,5,0,,Intereses de títulos y valores
@@ -165,10 +165,10 @@ I,5,3,,Dividendos y participación beneficios
 I,5,3,1,De organismos autónomos y agencias
 I,5,3,4,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos"
 I,5,3,7,De empresas privadas
-I,5,4,,Rentas de bienes inmuebles
-I,5,4,0,Rentas de bienes inmuebles
-I,5,4,1,Arrendamientos de fincas urbanas
-I,5,4,2,Arrendamientos de fincas rústicas
+I,5,4,,Rendas de bens inmobles
+I,5,4,0,Rendas de bens inmobles
+I,5,4,1,Arrendamentos de terreos urbanos
+I,5,4,2,Arrendamentos de terreos rústicos
 I,5,4,4,Censos
 I,5,4,9,Otras rentas de bienes inmuebles
 I,5,5,,Productos de concesións e aproveitamentos especiais
@@ -176,17 +176,17 @@ I,5,5,0,De concesións administrativas con contraprestación periódica
 I,5,5,1,De concesións administrativas con contraprestación no periódica
 I,5,5,2,Derecho de superficie con contraprestación periódica
 I,5,5,3,Derecho de superficie con contraprestación no periódica
-I,5,5,4,Aprovechamientos agrícolas y forestales
+I,5,5,4,Aproveitamentos agrícolas e forestais
 I,5,5,5,Aprovechamientos especiales con contraprestación
 I,5,5,9,Otras concesiones y aprovechamientos
-I,5,9,,Otros ingresos patrimoniales
+I,5,9,,Outros ingresos patrimoniais
 I,5,9,1,Beneficios por realización de inversiones financieras
 I,5,9,2,Ingresos por operaciones de intercambio financiero
-I,5,9,9,Otros ingresos patrimoniales
+I,5,9,9,Outros ingresos patrimoniais
 I,6,,,Alleamento de investimentos reais
 I,6,0,,De terreos
-I,6,0,0,Venta de solares
-I,6,0,1,Venta de fincas rústicas
+I,6,0,0,Venda de terreos
+I,6,0,1,Venda de terreos rústicos
 I,6,0,2,Parcelas sobrantes da vía pública
 I,6,0,3,Patrimonio público del suelo
 I,6,0,9,Otros terrenos
@@ -195,7 +195,7 @@ I,6,1,1,De inversiones de carácter inmaterial
 I,6,1,2,De objetos valiosos
 I,6,1,9,De outros investimentos reais
 I,6,8,,Reintegros por operaciones de capital
-I,6,8,0,De ejercicios cerrados
+I,6,8,0,De presupostos pechados
 I,7,,,Transferencias de capital
 I,7,0,,De la Administración General de la entidad local
 I,7,1,,De organismos autónomos de la entidad local
@@ -210,12 +210,12 @@ I,7,4,,De entes públicos y sociedades mercantiles de la entidad local
 I,7,4,0,De entes públicos
 I,7,4,1,De sociedades mercantiles
 I,7,5,,De comunidades autónomas
-I,7,5,0,De la Administración General de las comunidades autónomas
-I,7,5,1,De organismos autónomos y agencias de las comunidades autónomas
+I,7,5,0,Da Administración Xeral das comunidades autónomas
+I,7,5,1,De organismos autónomos e agenxias das comunidades autónomas
 I,7,5,2,De fundaciones de las comunidades autónomas
-I,7,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
+I,7,5,3,"De sociedades mercantiles, entidades públicas empresariais e outros organismos públicos dependentes das comunidades autónomas"
 I,7,6,,De entidades locais
-I,7,6,1,"De diputaciones, consejos o cabildos"
+I,7,6,1,"De deputacións, concellos o cabidos"
 I,7,6,2,De concellos
 I,7,6,3,De mancomunidades
 I,7,6,4,De áreas metropolitanas
@@ -227,7 +227,7 @@ I,7,7,,De empresas privadas
 I,7,8,,De Familias e Institucións sen fins de lucro
 I,7,9,,Do exterior
 I,7,9,0,Do Fondo Social Europeo
-I,7,9,1,Del Fondo de Desarrollo Regional
+I,7,9,1,Do Fondo Europeo de Desenvolvemento Rexional (FEDER)
 I,7,9,2,Del Fondo de Cohesión
 I,7,9,3,Del Fondo Europeo Agrícola de Garantía (FEAGA)
 I,7,9,4,Del Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
@@ -253,8 +253,8 @@ I,8,4,0,Devolucion de depósitos
 I,8,4,1,Devolucion de fianzas
 I,8,5,,Enajenacion de acciones y participaciones del sector público
 I,8,6,,Alleamento de accións e participacións fora do sector público
-I,8,7,,Remanente de tesoreria
-I,8,7,0,Remanente de tesoreria
+I,8,7,,Remanente de tesourería
+I,8,7,0,Remanente de tesourería
 I,9,,,Pasivos financeiros
 I,9,0,,Emision de deuda pública en euros
 I,9,0,0,A curto prazo
