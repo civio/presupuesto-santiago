@@ -68,14 +68,14 @@ I,3,2,2,Cédulas de habitabilidad y licencias de primera ocupación
 I,3,2,3,Tasas por otros servicios urbanísticos
 I,3,2,4,Tasas sobre el juego
 I,3,2,5,Taxa por expedición de documentos
-I,3,2,6,Tasa por retirada de vehículos
+I,3,2,6,Taxa por retirada de vehículos
 I,3,2,7,Licencias de apertura de establecimientos
 I,3,2,9,Outras taxas pola realización de actividades de competencia local
 I,3,3,,Taxas pola utilización privativa ou o aproveitamento especial do dominio público local
-I,3,3,0,Tasa de estacionamiento de vehículos
+I,3,3,0,Taxa de estacionamento de vehículos
 I,3,3,1,Taxa por entrada de vehículos
 I,3,3,2,Por empresas explotadoras de servizos de subministración
-I,3,3,3,Por empresas explotadoras de servicios de telecomunicaciones
+I,3,3,3,Por empresas explotadoras de servizos de telecomunicacións
 I,3,3,4,Tasa por apertura de calas y zanjas
 I,3,3,5,Taxa por ocupación de la via pública con mesas e cadeiras
 I,3,3,6,Taxa por ocupación de la via pública con suspensión temporal do tráfico rodado
@@ -104,8 +104,8 @@ I,3,9,2,Recargas do periodo executivo e por declaración extemporánea sin reque
 I,3,9,3,Xuros de demora
 I,3,9,4,Prestación personal
 I,3,9,5,Prestación de transporte
-I,3,9,6,Ingresos por actuaciones de urbanización
-I,3,9,7,Aprovechamientos urbanísticos
+I,3,9,6,Ingresos por actuacións de urbanización
+I,3,9,7,Aproveitamentos urbanísticos
 I,3,9,8,Indemnizaciones de seguros de no vida
 I,3,9,9,Outros ingresos diversos
 I,4,,,Transferencias correntes
@@ -188,7 +188,7 @@ I,6,0,,De terreos
 I,6,0,0,Venda de terreos
 I,6,0,1,Venda de terreos rústicos
 I,6,0,2,Parcelas sobrantes da vía pública
-I,6,0,3,Patrimonio público del suelo
+I,6,0,3,Patrimonio público do solo
 I,6,0,9,Otros terrenos
 I,6,1,,Dos demáis investimentos reais
 I,6,1,1,De inversiones de carácter inmaterial
@@ -202,10 +202,10 @@ I,7,1,,De organismos autónomos de la entidad local
 I,7,2,,Da Administración do Estado
 I,7,2,0,Da Administración Xeral do Estado
 I,7,2,1,De organismos autónomos e axencias do Estado
-I,7,2,2,De fundaciones estatales
+I,7,2,2,De fundacións estatais
 I,7,2,3,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
-I,7,3,,De la Seguridad Social
-I,7,3,0,De la Seguridad Social
+I,7,3,,Da Seguridad Social
+I,7,3,0,Da Seguridad Social
 I,7,4,,De entes públicos y sociedades mercantiles de la entidad local
 I,7,4,0,De entes públicos
 I,7,4,1,De sociedades mercantiles
@@ -224,13 +224,13 @@ I,7,6,6,De otras entidades que agrupen municipios
 I,7,6,7,De consorcios
 I,7,6,8,De entidades locales menores
 I,7,7,,De empresas privadas
-I,7,8,,De Familias e Institucións sen fins de lucro
+I,7,8,,De familias e institucións sen fins de lucro
 I,7,9,,Do exterior
 I,7,9,0,Do Fondo Social Europeo
 I,7,9,1,Do Fondo Europeo de Desenvolvemento Rexional (FEDER)
 I,7,9,2,Del Fondo de Cohesión
 I,7,9,3,Del Fondo Europeo Agrícola de Garantía (FEAGA)
-I,7,9,4,Del Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
+I,7,9,4,Do Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
 I,7,9,5,Del FEOGA-Orientación
 I,7,9,6,Del Fondo Europeo de la Pesca (FEP)
 I,7,9,7,Otras transferencias de la Unión Europea
