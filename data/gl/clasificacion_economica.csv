@@ -118,14 +118,14 @@ I,4,2,1,De organismos autónomos e axencias do Estado
 I,4,2,2,De fundaciones estatales
 I,4,2,3,"De sociedades mercantís estatais, entidades públicas empresariales e outros organismos públicos"
 I,4,3,,De la Seguridad Social
-I,4,4,,De entes públicos y sociedades mercantiles de la entidad local
+I,4,4,,De entes públicos e sociedades mercantís da entidade local
 I,4,4,0,De entes públicos
-I,4,4,1,De sociedades mercantiles
+I,4,4,1,De sociedades mercantís
 I,4,5,,De comunidades autónomas
 I,4,5,0,Da Administración Xeral das comunidades autónomas
 I,4,5,1,De organismos autónomos e agenxias das comunidades autónomas
-I,4,5,2,De fundaciones de las comunidades autónomas
-I,4,5,3,"De sociedades mercantiles, entidades públicas empresariais e outros organismos públicos dependentes das comunidades autónomas"
+I,4,5,2,De fundacións das comunidades autónomas
+I,4,5,3,"De sociedades mercantís, entidades públicas empresariais e outros organismos públicos dependentes das comunidades autónomas"
 I,4,6,,De entidades locais
 I,4,6,1,"De deputacións, concellos o cabidos"
 I,4,6,2,De concellos
@@ -208,12 +208,12 @@ I,7,3,,Da Seguridad Social
 I,7,3,0,Da Seguridad Social
 I,7,4,,De entes públicos y sociedades mercantiles de la entidad local
 I,7,4,0,De entes públicos
-I,7,4,1,De sociedades mercantiles
+I,7,4,1,De sociedades mercantís
 I,7,5,,De comunidades autónomas
 I,7,5,0,Da Administración Xeral das comunidades autónomas
 I,7,5,1,De organismos autónomos e agenxias das comunidades autónomas
 I,7,5,2,De fundaciones de las comunidades autónomas
-I,7,5,3,"De sociedades mercantiles, entidades públicas empresariais e outros organismos públicos dependentes das comunidades autónomas"
+I,7,5,3,"De sociedades mercantís, entidades públicas empresariais e outros organismos públicos dependentes das comunidades autónomas"
 I,7,6,,De entidades locais
 I,7,6,1,"De deputacións, concellos o cabidos"
 I,7,6,2,De concellos
@@ -234,7 +234,7 @@ I,7,9,4,Do Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
 I,7,9,5,Del FEOGA-Orientación
 I,7,9,6,Del Fondo Europeo de la Pesca (FEP)
 I,7,9,7,Otras transferencias de la Unión Europea
-I,7,9,9,"Otras tansferencias del exterior, excluyendo la Unión Europea"
+I,7,9,9,"Otras transferencias del exterior, excluyendo la Unión Europea"
 I,8,,,Activos financeiros
 I,8,0,,Enajenacion de deuda del sector público
 I,8,0,0,A curto prazo
@@ -313,7 +313,7 @@ G,2,0,3,"Maquinaria, instalacións e ferramenta"
 G,2,0,4,Elementos de transporte
 G,2,0,5,Mobiliario e aparellos
 G,2,0,6,Equipos para procesos de información
-G,2,0,8,Otro inmovilizado material
+G,2,0,8,Outro inmovilizado material
 G,2,0,9,Cánones
 G,2,1,,"Reparacións, mantemento e conservación"
 G,2,1,0,Terreos e bens naturais
@@ -369,10 +369,10 @@ G,3,5,2,Xuros de demora
 G,3,5,3,Operaciones de intercambio financiero
 G,3,5,7,Ejecución de avales
 G,3,5,8,Xuros por operacións de arrendamento financeiro (leasing)
-G,3,5,9,Otros gastos financieros
+G,3,5,9,Outros gastos financeiros
 G,4,,,Transferencias correntes
 G,4,0,,A la Administración General de la entidad local
-G,4,1,,A organismos autónomos de la entidad local
+G,4,1,,A organismos autónomos da entidade local
 G,4,2,,A la Administración do Estado
 G,4,2,0,A la Administración Xeral do Estado
 G,4,2,1,A organismos autónomos y agencias del Estado
@@ -385,26 +385,26 @@ G,4,4,1,Subvenciones para bonificacion de intereses y primas de seguros
 G,4,4,2,Subvenciones para reducir el precio a pagar por los consumidores
 G,4,4,9,Outras subvencións a entes públicos e sociedades mercantís da entidade local
 G,4,5,,A comunidades autónomas
-G,4,5,0,A la Administración General de las comunidades autónomas
+G,4,5,0,A la Administración Xeral das comunidades autónomas
 G,4,5,1,A organismos autónomos y agencias de las comunidades autónomas
-G,4,5,2,A fundaciones de las comunidades autónomas
-G,4,5,3,A sociedades mercantiles entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas
+G,4,5,2,A fundacións das comunidades autónomas
+G,4,5,3,"A sociedades mercantís, entidades públicas empresariais e outros organismos públicos dependentes das comunidades autónomas"
 G,4,6,,A entidades locais
 G,4,6,1,"A diputaciones, consejos o cabildos insulares"
 G,4,6,2,A concellos
 G,4,6,3,A mancomunidades
 G,4,6,4,A áreas metropolitanas
 G,4,6,5,A comarcas
-G,4,6,6,A otras entidades que agrupen municipios
+G,4,6,6,A outras entidades que agrupen municipios
 G,4,6,7,A consorcios
 G,4,6,8,A entidades locales menores
 G,4,7,,A empresas privadas
-G,4,7,0,Subvenciones para fomento del empleo
+G,4,7,0,Subvencións para fomento do emprego
 G,4,7,1,Subvenciones para bonificación de intereses y primas de seguros
 G,4,7,2,Subvenciones para reducir el precio a pagar por los consumidores
 G,4,7,9,Outras subvencións a empresas privadas
 G,4,8,,A familias e institucións sen fins de lucro
-G,4,9,,Al exterior
+G,4,9,,Ao exterior
 G,5,,,Fondo de continxencia
 G,5,0,,Fondo de continxencia
 G,5,0,0,Fondo de continxencia
@@ -417,21 +417,21 @@ G,6,1,0,Investimentos en terreos
 G,6,1,9,Outros investimentos de reposición en infraestruturas e bens destinados ao uso xeral
 G,6,2,,Investimento novo asociado ao funcionamento operativo dos servizos
 G,6,2,1,Terreos e bens naturais
-G,6,2,2,Edificios e outras construcións
+G,6,2,2,Edificios e outras construccións
 G,6,2,3,"Maquinaria, instalacións técnicas e ferramenta"
 G,6,2,4,Elementos de transporte
 G,6,2,5,Mobiliario
 G,6,2,6,Equipos para procesos de información
-G,6,2,7,Proyectos complejos
+G,6,2,7,Proxectos complexos
 G,6,2,9,Outros investimentos novos
 G,6,3,,Investimento de reposición asociado ao funcionamento operativo dos servizos
 G,6,3,1,Terreos e bens naturais
-G,6,3,2,Edificios e outras construcións
+G,6,3,2,Edificios e outras construccións
 G,6,3,3,"Maquinaria, instalacións técnicas e ferramenta"
 G,6,3,4,Elementos de transporte
 G,6,3,5,Mobiliario
 G,6,3,6,Equipos para procesos de información
-G,6,3,7,Proyectos complejos
+G,6,3,7,Proxectos complexos
 G,6,3,9,Outros investimentos de reposición
 G,6,4,,Gastos en investimentos de carácter inmaterial
 G,6,4,0,Gastos en investimentos de carácter inmaterial
@@ -441,7 +441,7 @@ G,6,5,,Gastos en investimentos xestionados para outros entes públicos
 G,6,5,0,Gastos en investimentos xestionados para outros entes públicos
 G,6,8,,Gastos en inversiones de bienes patrimoniales
 G,6,8,1,Terreos e bens naturais
-G,6,8,2,Edificios e outras construcións
+G,6,8,2,Edificios e outras construccións
 G,6,8,9,Otros gastos en inversiones de bienes patrimoniales
 G,6,9,,Inversiones en bienes comunales
 G,6,9,0,Terreos e bens naturais
@@ -452,18 +452,18 @@ G,7,1,,A organismos autónomos de la entidad local
 G,7,1,0,A organismos autónomos de la entidad local
 G,7,1,1,A organismos autónomos de la entidad local
 G,7,2,,Á Administración do Estado
-G,7,2,0,A la Administración General del Estado
+G,7,2,0,A la Administración Xeral do Estado
 G,7,2,1,A organismos autónomos e axencias
-G,7,2,2,A fundaciones estatales
-G,7,2,3,"A sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
+G,7,2,2,A fundacións estatais
+G,7,2,3,"A sociedades mercantís estatais, entidades públicas empresariais e outros organismos públicos"
 G,7,3,,A la Seguridad Social
-G,7,4,,A entes públicos y sociedades mercantiles de la entidad local
+G,7,4,,A entes públicos e sociedades mercantís da entidade local
 G,7,5,,A comunidades autónomas
 G,7,5,0,Á Administración Xeral da comunidad autónoma
 G,7,5,1,A organismos autónomos y agencias de las comunidades autónomas
 G,7,5,2,A fundaciones de las comunidades autónomas
-G,7,5,3,"A sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
-G,7,6,,A entidades locales
+G,7,5,3,"A sociedades mercantís, entidades públicas empresariais e outros organismos públicos dependentes das comunidades autónomas"
+G,7,6,,A entidades locais
 G,7,6,1,"A diputaciones, consejos o cabildos"
 G,7,6,2,A concellos
 G,7,6,3,A mancomunidades
@@ -482,14 +482,14 @@ G,8,0,,Adquisición de deuda del sector público
 G,8,0,0,A curto prazo
 G,8,0,1,A longo prazo
 G,8,1,,Adquisición de obligaciones y bonos fuera del sector público
-G,8,1,0,A corto plazo. Desarrollo por sectores
-G,8,1,1,A largo plazo. Desarrollo por sectores
+G,8,1,0,A corto plazo. Desenvolvemento por sectores
+G,8,1,1,A largo plazo. Desenvolvemento por sectores
 G,8,2,,Concesion de préstamos al sector público
-G,8,2,0,Préstamos a corto plazo
-G,8,2,1,Préstamos a largo plazo
+G,8,2,0,Préstamos a curto prazo
+G,8,2,1,Préstamos a largo prazo
 G,8,3,,Concesión de préstamos fora do sector público
-G,8,3,0,Préstamos a corto plazo. Desarrollo por sectores
-G,8,3,1,Préstamos a largo plazo. Desarrollo por sectores
+G,8,3,0,Préstamos a curto prazo. Desenvolvemento por sectores
+G,8,3,1,Préstamos a largo prazo. Desenvolvemento por sectores
 G,8,4,,Constitucion de depósitos y fianzas
 G,8,4,0,Depósitos
 G,8,4,1,Fianzas
@@ -506,10 +506,10 @@ G,9,0,,Amortización de deuda pública en euros
 G,9,0,0,A curto prazo
 G,9,0,1,A longo prazo
 G,9,1,,Amortización de préstamos e de operacións en euros
-G,9,1,0,A corto plazo de entes del sector público
-G,9,1,1,A largo plazo de entes del sector público
-G,9,1,2,A corto plazo de entes de fuera del sector público
-G,9,1,3,A largo plazo de entes de fuera del sector público
+G,9,1,0,A corto prazo de entes do sector público
+G,9,1,1,A largo prazo de entes do sector público
+G,9,1,2,A corto prazo de entes fora do sector público
+G,9,1,3,A largo prazo de entes fora do sector público
 G,9,2,,Amortización de deuda pública en moneda distinta del euro
 G,9,2,0,A curto prazo
 G,9,2,1,A longo prazo
@@ -531,13 +531,13 @@ I,7,7,0,De empresas privadas
 I,7,8,0,De familias e institucións sen fins de lucro
 G,1,2,5,Retribucións promoción interna
 G,1,3,5,Retribucións promoción interna
-G,4,1,0,A organismos autónomos de la entidad local
+G,4,1,0,A organismos autónomos da entidade local
 G,4,7,0,A empresas privadas
 G,4,8,0,A familias e institucións sen fins de lucro
 G,4,8,1,A familias e institucións sen fins de lucro
 G,4,8,9,A familias e institucións sen fins de lucro
-G,4,9,0,Al exterior
+G,4,9,0,Ao exterior
 G,6,0,2,Outros investimentos
 G,6,2,8,Outros investimentos novos
 G,7,8,0,A familias e institucións sen fins de lucro
-G,7,4,9,A entes públicos y sociedades mercantiles de la entidad local
+G,7,4,9,A entes públicos e sociedades mercantís da entidad local
