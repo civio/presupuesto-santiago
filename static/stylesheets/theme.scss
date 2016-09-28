@@ -184,14 +184,14 @@
 
 // Search
 .search-content .alert{
-  background: $brand-secondary;
+  background: $brand-primary;
 }
 .search-content .panel{
-  border-color: $brand-primary;
+  border-color: $brand-secondary;
 
   .panel-heading{
     color: white;
-    background: $brand-primary;
+    background: $brand-secondary;
 
     h3{
       color: white;
