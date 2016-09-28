@@ -78,7 +78,7 @@ I,3,3,2,Por empresas explotadoras de servicios de suministros
 I,3,3,3,Por empresas explotadoras de servicios de telecomunicaciones
 I,3,3,4,Tasa por apertura de calas y zanjas
 I,3,3,5,Tasa por ocupación de la via pública con terrazas
-I,3,3,6,Tasa por ocupación de la via pública con suspensión temporal del trafico rodado
+I,3,3,6,Tasa por ocupación de la via pública con suspensión temporal del tráfico rodado
 I,3,3,7,Tasas por aprovechamiento del vuelo
 I,3,3,8,Compensación de Telefónica de España SA
 I,3,3,9,Otras tasas por utilización privativa del dominio público
@@ -126,7 +126,7 @@ I,4,5,,De comunidades autónomas
 I,4,5,0,De la Administración General de las comunidades autónomas
 I,4,5,1,De organismos autónomos y agencias de las comunidades autónomas
 I,4,5,2,De fundaciones de las comunidades autónomas
-I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas."
+I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
 I,4,6,,De entidades locales
 I,4,6,1,"De diputaciones, consejos o cabildos"
 I,4,6,2,De ayuntamientos
@@ -141,14 +141,14 @@ I,4,8,,De familias e instituciones sin fines de lucro
 I,4,8,9,De familias e instituciones sin fines de lucro
 I,4,9,,Del exterior
 I,4,9,0,Del Fondo Social Europeo
-I,4,9,1,Del Fondo de Desarrollo Regional
+I,4,9,1,Del Fondo de Desarrollo Regional (FEDER)
 I,4,9,2,Del Fondo de Cohesión
 I,4,9,3,Del Fondo Europeo Agrícola de Garantía (FEAGA)
 I,4,9,4,Del Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
 I,4,9,5,Del FEOGA-Orientación
 I,4,9,6,Del Fondo Europeo de la Pesca (FEP)
 I,4,9,7,Otras transferencias de la Unión Europea
-I,4,9,9,"Otras tansferencias del exterior, excluyendo la Unión Europea"
+I,4,9,9,"Otras transferencias del exterior, excluyendo la Unión Europea"
 I,5,,,Ingresos patrimoniales
 I,5,0,,Intereses de títulos y valores
 I,5,0,0,Del Estado
@@ -184,7 +184,7 @@ I,5,9,,Otros ingresos patrimoniales
 I,5,9,1,Beneficios por realización de inversiones financieras
 I,5,9,2,Ingresos por operaciones de intercambio financiero
 I,5,9,9,Otros ingresos patrimoniales
-I,6,,,Enajenacion de inversiones reales
+I,6,,,Enajenación de inversiones reales
 I,6,0,,De terrenos
 I,6,0,0,Venta de solares
 I,6,0,1,Venta de fincas rústicas
@@ -228,19 +228,19 @@ I,7,7,,De empresas privadas
 I,7,8,,De familias e instituciones sin fines de lucro
 I,7,9,,Del exterior
 I,7,9,0,Del Fondo Social Europeo
-I,7,9,1,Del Fondo de Desarrollo Regional
+I,7,9,1,Del Fondo de Desarrollo Regional (FEDER)
 I,7,9,2,Del Fondo de Cohesión
 I,7,9,3,Del Fondo Europeo Agrícola de Garantía (FEAGA)
 I,7,9,4,Del Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
 I,7,9,5,Del FEOGA-Orientación
 I,7,9,6,Del Fondo Europeo de la Pesca (FEP)
 I,7,9,7,Otras transferencias de la Unión Europea
-I,7,9,9,"Otras tansferencias del exterior, excluyendo la Unión Europea"
+I,7,9,9,"Otras transferencias del exterior, excluyendo la Unión Europea"
 I,8,,,Activos financieros
-I,8,0,,Enajenacion de deuda del sector público
+I,8,0,,Enajenación de deuda del sector público
 I,8,0,0,A corto plazo
 I,8,0,1,A largo plazo
-I,8,1,,Enajenacion de obligaciones y bonos fuera del sector público
+I,8,1,,Enajenación de obligaciones y bonos fuera del sector público
 I,8,1,0,A corto plazo
 I,8,1,1,A largo plazo
 I,8,2,,Reintegro de préstamos y anticipos concedidos al sector público
@@ -249,13 +249,13 @@ I,8,2,1,A largo plazo
 I,8,3,,Reintegros de préstamos de fuera del sector público
 I,8,3,0,A corto plazo
 I,8,3,1,A largo plazo
-I,8,4,,Devolucion de depósitos y fianzas constituidos
-I,8,4,0,Devolucion de depósitos
-I,8,4,1,Devolucion de fianzas
-I,8,5,,Enajenacion de acciones y participaciones del sector público
-I,8,6,,Enajenacion de acciones y participaciones fuera del sector público
-I,8,7,,Remanente de tesoreria
-I,8,7,0,Remanente de tesoreria
+I,8,4,,Devolución de depósitos y fianzas constituidos
+I,8,4,0,Devolución de depósitos
+I,8,4,1,Devolución de fianzas
+I,8,5,,Enajenación de acciones y participaciones del sector público
+I,8,6,,Enajenación de acciones y participaciones fuera del sector público
+I,8,7,,Remanente de tesorería
+I,8,7,0,Remanente de tesorería
 I,9,,,Pasivos financieros
 I,9,0,,Emision de deuda pública en euros
 I,9,0,0,A corto plazo
