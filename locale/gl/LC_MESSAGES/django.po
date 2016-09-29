@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-09-09 16:41+0200\n"
+"PO-Revision-Date: 2016-09-29 16:53+0200\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,7 +49,7 @@ msgstr "Ingresos e gastos inclúe só o Concello de Santiago"
 
 #: templates/tax_receipt/tax_receipt_form.html:75
 msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno de Aragón"
-msgstr "Vostede contribuír cun total de <b id=\"tax-amount-paid\"></b> os orzamentos do Concello de Santiago"
+msgstr "Contribuíches cun total de <b id=\"tax-amount-paid\"></b> aos orzamentos do Concello de Santiago"
 
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
@@ -66,28 +66,28 @@ msgid "Piso de 75 m\\u00B2 situado en Quiroga Palacios"
 msgstr "Piso de 75 m\\u00B2 sito en Quiroga Palacios"
 
 msgid "Piso de 110 m\\u00B2 situado en Fontiñas"
-msgstr "Piso de 110 m\\u00B2 sito en Fontiñas"
+msgstr "Piso de 110 m\\u00B2 sito nas Fontiñas"
 
 msgid "Piso de 140 m\\u00B2 situado en Castiñeiriño"
-msgstr "Piso de 140 m\\u00B2 sito en Castiñeiriño"
+msgstr "Piso de 140 m\\u00B2 sito no Castiñeiriño"
 
-msgid "Piso de 170 m\\u00B2 situado en Ensanche y otro de 175 m\\u00B2 situado en Cidade Vella"
-msgstr "Piso de 75 m\\u00B2 sito no Ensanche e outro de 175 m\\u00B2 sito en Cidade Vella"
+msgid "Un piso de 170 m\\u00B2 situado en Ensanche y otro de 175 m\\u00B2 situado en Cidade Vella"
+msgstr "Piso de 170 m\\u00B2 sito no Ensanche e outro de 175 m\\u00B2 sito na Cidade Vella"
 
 msgid "Coche pequeño (15 caballos fiscales)"
-msgstr "Coche pequeno (15 caballos fiscales)"
+msgstr "Coche pequeno (15 cabalos fiscais)"
 
 msgid "Coche mediano (18 caballos fiscales)"
-msgstr "Coche mediano (18 caballos fiscales)"
+msgstr "Coche mediano (18 cabalos fiscais)"
 
 msgid "Coche grande (21 caballos fiscales)"
-msgstr "Coche grande (21 caballos fiscales)"
+msgstr "Coche grande (21 cabalos fiscais)"
 
 msgid "Un adulto y un menor"
 msgstr "Un adulto e un menor"
 
 msgid "Dos adultos sin menores"
-msgstr "Dos adultos"
+msgstr "Dous adultos"
 
 msgid "Dos adultos y un menor"
 msgstr "Dous adultos e un menor"
@@ -96,4 +96,7 @@ msgid "Dos adultos y tres menores"
 msgstr "Dous adultos e tres menores"
 
 msgid "Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href=\"#\" id=\"scenario-1\">piso de alquiler</a>, <a href=\"#\" id=\"scenario-2\">piso pequeño</a>, <a href=\"#\" id=\"scenario-3\">piso mediano con vado</a>, o <a href=\"#\" id=\"scenario-4\">piso grande con vado</a>) o modificar cada uno de los elementos de forma independiente."
-msgstr "Podes escoller o tipo de situación que mellor reflicta a túa realidade (<a href=\"#\" id=\"scenario-1\">piso de aluguer</a>, <a href=\"#\" id=\"scenario-2\">piso pequeno</a>, <a href=\"#\" id=\"scenario-3\">piso mediano con vado</a>, ou <a href=\"#\" id=\"scenario-4\">piso grande con vado</a>) ou modificar cada un dos elementos de forma independente."
+msgstr "Podes escoller o tipo de situación que mellor reflicta a túa realidade (<a href=\"#\" id=\"scenario-1\">piso de aluguer</a>, <a href=\"#\" id=\"scenario-2\">piso pequeno</a>, <a href=\"#\" id=\"scenario-3\">piso mediano con vao</a>, ou <a href=\"#\" id=\"scenario-4\">piso grande con vao</a>) ou modificar cada un dos elementos de forma independente."
+
+msgid "Sí"
+msgstr "Si"
