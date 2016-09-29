@@ -4,13 +4,17 @@
   background: mix( $brand-primary, white, 75% );
 }
 
-// Icons
-.btn[class*="icon-"]:before{
-  // align-right
-  float: right;
-  margin-right: 0;
-  margin-left: 10px;
+.form-search .form-inline .btn{
+  width: auto;
 }
+
+// Icons
+// .btn[class*="icon-"]:before{
+//   // align-right
+//   float: right;
+//   margin-right: 0;
+//   margin-left: 10px;
+// }
 
 // Lang Menu
 #menu-lang ul li input[type=submit]{
@@ -197,6 +201,10 @@
       color: white;
     }
   }
+}
+
+.search-content .panel .panel-heading h3:before{
+  color: white;
 }
 
 // Search Icon
