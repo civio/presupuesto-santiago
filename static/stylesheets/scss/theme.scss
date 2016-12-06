@@ -274,3 +274,21 @@ table.table-grid{
     color: $text-color;
   }
 }
+
+
+.chart-container .popover .popover-title,
+.sankey .popover-content .executed{
+  color: $text-color;
+}
+
+.chart-embed-btn span, .chart-embed-btn a{
+  background-color: $brand-secondary;
+
+  &:hover{
+    background-color: mix( $brand-secondary, white, 70% );
+  }
+}
+
+.stacked-area-chart-legend .label:hover{
+  background: $brand-primary;
+}
