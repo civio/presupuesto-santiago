@@ -70,12 +70,6 @@
   }
 }
 
-// Data Panel
-.data-panel .panel-title{
-  background: $gray-light;
-  font-weight: $font-weight-300;
-}
-
 // Data Downloads
 .panel-downloads{
   border-color: mix( $brand-terciary, white, 40% );
@@ -190,16 +184,12 @@
 .search-content .alert{
   background: $brand-primary;
 }
+
 .search-content .panel{
   border-color: $brand-secondary;
 
   .panel-heading{
-    color: white;
     background: $brand-secondary;
-
-    h3{
-      color: white;
-    }
   }
 }
 
