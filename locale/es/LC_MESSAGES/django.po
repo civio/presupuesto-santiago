@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-05-29 19:07+0200\n"
+"PO-Revision-Date: 2017-01-05 12:54+0100\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: templates/base.html:4 templates/shared/social_sharing.html:5
 msgid "Presupuestos del Gobierno de Aragón"
@@ -27,13 +27,13 @@ msgstr "Información presupuestaria del Ayuntamiento de Santiago"
 
 #: templates/budgets/budgets_intro.html:16
 msgid ""
-"El dinero recaudado localmente se complementa con las transferencias de la "
-"Administración General del Estado y del Gobierno de Aragón, que son los encargados de "
-"recaudar otros ingresos como el IVA y el IRPF"
+"El dinero recaudado localmente se complementa con las transferencias de la Administración "
+"General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros "
+"ingresos como el IVA y el IRPF"
 msgstr ""
-"El dinero recaudado localmente se complementa con las transferencias de la "
-"Administración General del Estado y de la Xunta de Galicia, que son los encargados de "
-"recaudar otros ingresos como el IVA y el IRPF"
+"El dinero recaudado localmente se complementa con las transferencias de la Administración "
+"General del Estado y de la Xunta de Galicia, que son los encargados de recaudar otros "
+"ingresos como el IVA y el IRPF"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
@@ -55,10 +55,10 @@ msgstr "Los ingresos y gastos mostrados incluyen únicamente al Ayuntamiento de 
 
 #: templates/tax_receipt/tax_receipt_form.html:75
 msgid ""
-"Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del "
+"Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del "
 "Gobierno de Aragón"
 msgstr ""
-"Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del "
+"Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del "
 "Ayuntamiento de Santiago"
 
 #: templates/welcome/index.html:12
