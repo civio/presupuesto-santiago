@@ -8,7 +8,7 @@ MAIN_ENTITY_NAME = 'Santiago'
 BUDGET_LOADER = 'SantiagoBudgetLoader'
 PAYMENTS_LOADER = 'SantiagoPaymentsLoader'
 
-FEATURED_PROGRAMMES = ['16500', '13200', '33800', '24100']
+FEATURED_PROGRAMMES = ['16500', '13200', '33800', '24100', 'XX']
 
 OVERVIEW_INCOME_NODES = [
                           {
