@@ -282,3 +282,13 @@ table.table-grid{
 .stacked-area-chart-legend .label:hover{
   background: $brand-primary;
 }
+
+#payments-search .btn-primary{
+  color: #b03;
+
+  &:hover{
+    border-color: #b03;
+    background-color: #b03;
+    color: white;
+  }
+}
