@@ -283,6 +283,11 @@ table.table-grid{
   background: $brand-primary;
 }
 
+
+.payments-breakdown #query-panel .panel{
+    background-color: mix( $brand-terciary, white, 40% );
+}
+
 #payments-search .btn-primary{
   color: #b03;
 
