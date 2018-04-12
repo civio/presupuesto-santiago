@@ -46,6 +46,7 @@
 1,5,1,02,Xestión de licenzas e disciplina
 1,5,1,03,Expropiacións
 1,5,2,20,Vivenda
+1,5,3,00,Vías públicas
 1,5,3,20,Pavimentación de vías públicas
 1,5,3,21,Actuacións integrais en vías públicas
 1,5,3,40,Infraestruturas urbanas
@@ -78,6 +79,7 @@
 3,2,3,02,Funcionamento de escolas infantís consorcio
 3,2,4,00,Funcionamento de centros de ensino secundario
 3,2,6,00,Servizos complementarios de educación
+3,2,6,01,Servizos complementarios de educación
 3,2,9,00,Outras actividades relacionadas coa educación
 3,3,0,00,Administración xeral de cultura
 3,3,2,20,Arquivos
@@ -104,6 +106,7 @@
 4,5,3,00,Carreteras
 4,5,4,00,Camiños veciñais
 4,5,9,00,Outras infraestruturas
+4,6,2,00,Investigación e estudos relacionados cos SSPP
 4,6,3,00,Investigación técnica
 4,9,1,00,Sociedade da información
 4,9,3,00,Protección de consumidores e usuarios

@@ -46,6 +46,7 @@
 1,5,1,02,Gestión de licencias y disciplina
 1,5,1,03,Expropiaciones
 1,5,2,20,Vivienda
+1,5,3,00,Vías públicas
 1,5,3,20,Pavimentación de vías públicas
 1,5,3,21,Actuaciones integrales en vías públicas
 1,5,3,40,Infraestructuras urbanas
@@ -78,6 +79,8 @@
 3,2,3,02,Funcionamiento de escuelas infantiles consorcio
 3,2,4,00,Funcionamiento de centros de enseñanza secundaria
 3,2,6,00,Servicios complementarios de educación
+3,2,6,00,Servicios complementarios de educación
+3,2,6,01,Servicios complementarios de educación
 3,2,9,00,Otras actividades relacionadas con la educación
 3,3,0,00,Administración general de cultura
 3,3,2,20,Archivos
@@ -104,6 +107,7 @@
 4,5,3,00,Carreteras
 4,5,4,00,Caminos vecinales
 4,5,9,00,Otras infraestructuras
+4,6,2,00,Investigación y estudios relacionados con los SSPP
 4,6,3,00,Investigación técnica
 4,9,1,00,Sociedad de la información
 4,9,3,00,Protección de consumidores y usuarios
