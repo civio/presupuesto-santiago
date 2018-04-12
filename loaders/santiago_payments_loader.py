@@ -51,7 +51,7 @@ class SantiagoPaymentsLoader(PaymentsLoader):
         payee = re.sub(r'^Yago\'S ', 'Yago\'s ', payee)
         payee = re.sub(r'^Fh ', 'FH ', payee)
         payee = re.sub(r'^Al Air Liquide ', 'AL Air Liquide ', payee)
-        ayee = re.sub(r' Cp', ' CP ', payee)
+        payee = re.sub(r' Cp', ' CP ', payee)
         payee = re.sub(r' Sdg ', ' SDG ', payee)
         payee = re.sub(r' Sa$', ' SA', payee)
         payee = re.sub(r' Sau$', ' SAU', payee)
@@ -102,6 +102,7 @@ class SantiagoPaymentsLoader(PaymentsLoader):
             'programme': None,
             'fc_code': None,  # We don't try (yet) to have foreign keys to existing records
             'ec_code': None,
+            'ic_code': None,
             'date': date,
             'payee': payee,
             'anonymized': anonymized,
