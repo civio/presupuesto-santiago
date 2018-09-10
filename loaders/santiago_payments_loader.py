@@ -88,6 +88,9 @@ class SantiagoPaymentsLoader(PaymentsLoader):
         payee = re.sub(r' Calefaccion ', u' Calefacción ', payee)
         payee = re.sub(r'^Cluster Tic ', 'Cluster TIC ', payee)
 
+        payee_id = line[9].strip()
+        payee = ("Anonimizado" if payee_id == "Anonimizado" else payee)
+
         anonymized = False
         anonymized = (True if payee == "Anonimizado" else anonymized)
 
