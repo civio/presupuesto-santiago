@@ -54,8 +54,6 @@ SHOW_INSTITUTIONAL_TAB  = True
 # Show an extra tab with funding breakdown (only applicable to some budgets). Default: False.
 # SHOW_FUNDING_TAB = False
 
-# Adjust inflation in amounts in Overview page. Default: True
-# ADJUST_INFLATION_IN_OVERVIEW = False
 
 # Show Subtotals panel in Overview. Default: False
 # SHOW_OVERVIEW_SUBTOTALS = True
