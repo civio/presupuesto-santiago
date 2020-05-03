@@ -45,6 +45,7 @@
 1,5,1,01,Planeamento e xestión urbanística
 1,5,1,02,Xestión de licenzas e disciplina
 1,5,1,03,Expropiacións
+1,5,1,04,Xestión de execucións subsidiarias
 1,5,2,20,Vivenda
 1,5,3,00,Vías públicas
 1,5,3,20,Pavimentación de vías públicas
@@ -71,6 +72,8 @@
 2,3,1,09,Acción Social: infraestruturas
 2,3,9,00,Outras actividades relacionadas con servizos sociais
 2,4,1,00,Fomento do emprego
+2,4,1,01,Fomento del empleo: Desenvolvemento Urbano Sostible e Integrado (EDUSI)
+2,4,1,02,Fomento do emprego: obradoiros
 3,1,1,00,Protección da salubridade pública
 3,1,1,01,Protección da salubridade pública: benestar animal
 3,2,0,00,Administración xeral de educación

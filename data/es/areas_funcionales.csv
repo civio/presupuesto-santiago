@@ -45,6 +45,7 @@
 1,5,1,01,Planificación y gestión urbanística
 1,5,1,02,Gestión de licencias y disciplina
 1,5,1,03,Expropiaciones
+1,5,1,04,Gestión ejecuciones subdiarias
 1,5,2,20,Vivienda
 1,5,3,00,Vías públicas
 1,5,3,20,Pavimentación de vías públicas
@@ -71,6 +72,8 @@
 2,3,1,09,Acción Social. Infraestructuras
 2,3,9,00,Otras actividades relacionadas con servicios sociales
 2,4,1,00,Fomento del empleo
+2,4,1,01,Fomento del empleo: Desarrollo Urbano Sostenible e Integrado (EDUSI)
+2,4,1,02,Fomento del empleo: talleres
 3,1,1,00,Protección de la salud pública
 3,1,1,01,Protección de la salud pública: bienestar animal
 3,2,0,00,Administración general de educación
